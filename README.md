@@ -15,19 +15,19 @@ This ReadME was created with a ReadME genereator : https://github.com/Kbasius/Re
 
 ## Description
 
-This is a class challenge that is about using Github actions.
+This is a class challenge that is about using Github actions and CI/CD pipelines so that the cypress tests are ran to check braches before being mergered to their respective 'Main'.
 
 ## Installation
 
 https://github.com/Kbasius/Deployment-CI-CD
 
-Clone the repo or download the ip file.
-There is no real reason for anyone to use this.
+Clone the repo or download the zip file.
+There is no real reason for anyone to use this, Just look at the .yml files in the github/workflow files.
 
 ## Usage
 
 This is a class challenge that is about using Github actions.
-There is no real reason for anyone to download and use this.
+There is no real reason for anyone to use this, Just look at the .yml files in the github/workflow files.
 
 ## Contributing
 
